@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            InputNombre = new TextBox();
+            inputNombre = new TextBox();
             inputTelefono = new TextBox();
             ButtonEnviar = new Button();
             Nombre = new Label();
@@ -41,18 +41,21 @@
             label1 = new Label();
             SuspendLayout();
             // 
-            // InputNombre
+            // inputNombre
             // 
-            InputNombre.Location = new Point(134, 129);
-            InputNombre.Name = "InputNombre";
-            InputNombre.Size = new Size(200, 23);
-            InputNombre.TabIndex = 0;
-            InputNombre.TextChanged += InputNombre_TextChanged;
+            inputNombre.Location = new Point(134, 129);
+            inputNombre.MaxLength = 20;
+            inputNombre.Name = "inputNombre";
+            inputNombre.Size = new Size(200, 23);
+            inputNombre.TabIndex = 0;
+            inputNombre.TextChanged += InputNombre_TextChanged;
             // 
             // inputTelefono
             // 
             inputTelefono.Location = new Point(134, 184);
+            inputTelefono.MaxLength = 8;
             inputTelefono.Name = "inputTelefono";
+            inputTelefono.ShortcutsEnabled = false;
             inputTelefono.Size = new Size(200, 23);
             inputTelefono.TabIndex = 1;
             inputTelefono.TextChanged += inputTelefono_TextChanged;
@@ -88,8 +91,10 @@
             // inputMensaje
             // 
             inputMensaje.Location = new Point(134, 238);
+            inputMensaje.MaxLength = 150;
             inputMensaje.Multiline = true;
             inputMensaje.Name = "inputMensaje";
+            inputMensaje.ScrollBars = ScrollBars.Both;
             inputMensaje.Size = new Size(200, 63);
             inputMensaje.TabIndex = 2;
             inputMensaje.TextChanged += inputMensaje_TextChanged;
@@ -124,10 +129,11 @@
             // 
             // labelResultado3
             // 
-            labelResultado3.AutoSize = true;
             labelResultado3.Location = new Point(438, 192);
+            labelResultado3.MaximumSize = new Size(200, 200);
+            labelResultado3.MinimumSize = new Size(200, 0);
             labelResultado3.Name = "labelResultado3";
-            labelResultado3.Size = new Size(0, 15);
+            labelResultado3.Size = new Size(200, 109);
             labelResultado3.TabIndex = 7;
             // 
             // label1
@@ -156,16 +162,17 @@
             Controls.Add(ButtonEnviar);
             Controls.Add(inputMensaje);
             Controls.Add(inputTelefono);
-            Controls.Add(InputNombre);
+            Controls.Add(inputNombre);
             Name = "Form1";
             Text = "RegistroContactoApp";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private TextBox InputNombre;
+        private TextBox inputNombre;
         private TextBox inputTelefono;
         private Button ButtonEnviar;
         private Label Nombre;

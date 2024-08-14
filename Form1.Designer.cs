@@ -158,7 +158,7 @@
             Controls.Add(inputTelefono);
             Controls.Add(InputNombre);
             Name = "Form1";
-            Text = "Form1";
+            Text = "RegistroContactoApp";
             ResumeLayout(false);
             PerformLayout();
         }

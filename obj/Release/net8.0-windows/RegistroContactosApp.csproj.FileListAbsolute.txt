@@ -1,0 +1,17 @@
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\bin\Release\net8.0-windows\RegistroContactosApp.exe
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\bin\Release\net8.0-windows\RegistroContactosApp.deps.json
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\bin\Release\net8.0-windows\RegistroContactosApp.runtimeconfig.json
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\bin\Release\net8.0-windows\RegistroContactosApp.dll
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\bin\Release\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.Form1.resources
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.Properties.Resources.resources
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.csproj.GenerateResource.cache
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.AssemblyInfoInputs.cache
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.AssemblyInfo.cs
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.dll
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\refint\RegistroContactosApp.dll
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\RegistroContactosApp.genruntimeconfig.cache
+C:\Users\alexg\OneDrive\Documentos\USPG\SemestreII\ProgramacionII\Form\RegistroContactosApp\obj\Release\net8.0-windows\ref\RegistroContactosApp.dll

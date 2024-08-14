@@ -34,6 +34,7 @@ namespace RegistroContactosApp
             this.labelResultado1.Text = salida1.ToString();
             this.labelResutado2.Text = salida2.ToString();
             this.labelResultado3.Text = salida3.ToString();
+            MessageBox.Show("Formulario enviado Correctamente");
         }
        
         private void label3_Click(object sender, EventArgs e)
